@@ -2,6 +2,6 @@
 ⚡️TelegramBot-LongPolling-Frame⚡️
 
 
-## /setprivacy ==》 DISABLED
-
-## /setjoingroups ==》 ENABLE
+## TelegramBot Setting
+### /setprivacy ==》 DISABLED
+### /setjoingroups ==》 ENABLE
