@@ -2,5 +2,6 @@
 ⚡️TelegramBot-LongPolling-Frame⚡️
 
 
-/setprivacy ==》 DISABLED
-/setjoingroups ==》 ENABLE
+## /setprivacy ==》 DISABLED
+
+## /setjoingroups ==》 ENABLE
